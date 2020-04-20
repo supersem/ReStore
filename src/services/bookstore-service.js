@@ -3,7 +3,10 @@ export default class BookstoreService {
     return [
       { id: 1,
         title: 'Production-Ready Micro',
-        author: 'Susan Fowler'}
+        author: 'Susan Fowler'},
+      { id: 2,
+        title: 'React+Redux',
+        author: 'Juriy Bura'}
     ];
   }
 }
